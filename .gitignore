@@ -1,0 +1,5 @@
+*.ahk
+.vscode
+*ipynb*
+*.cer
+*.pyc
