@@ -1,0 +1,1568 @@
+{
+    "data": [
+        {
+            "id": "fd28b2f69f87431db170b2ca8d1321be",
+            "name": "The Protein Bar and Kitchen (Clark/Kinzie)",
+            "nameWithoutLocation": "The Protein Bar and Kitchen",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/4bapK8FXXWNBZBuWDCZmoFE0PyPlvsEbXOWU4fOSsrI-Swhuy0V38WQxmfC_UJCk43ObFSa6Xt4yccDxk1Zo-Ta2KQ",
+            "squareImageUrl": "https://lh3.googleusercontent.com/IlgMT94A04Kv4zOxfZFoVBeW9uBdXg2h4lK3m_AA9kJ8mKf02Pq70lWO4mc6Jt1KlfUN7QnaJ-c2_FZaKSC3q13y-g",
+            "address": {
+                "streetAddress": "352 N Clark St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.88890075683594,
+                "longitude": -87.631103515625
+            },
+            "menuPath": "/the-protein-bar-and-kitchen-clark-kinzie-chicago/a244",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671757200000,
+            "tags": [
+                "Healthy Eats",
+                "Salads"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": false,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": false,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T13:00:00Z",
+                    "to": "2022-12-23T01:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T13:00:00Z",
+                    "to": "2022-12-23T23:00:00Z"
+                }
+            ],
+            "distanceInMeters": 640,
+            "formattedDistanceString": "0.4 mi"
+        },
+        {
+            "id": "f29aba15b23f4097816edbba2e04f3ea",
+            "name": "Joe & The Juice (Huron/State)",
+            "nameWithoutLocation": "Joe & The Juice",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/XY690KJOZxzHoPrg1orxD-aOxUfbaNYNgsjNXjn2QHXvmpEprlFeNEKH_RGiHVrGMz6jsUuPdciixMgLTtIhD15AvdgkKSpgLhzmisyw",
+            "squareImageUrl": "https://lh3.googleusercontent.com/Io1DG49vAUf33-z9ENNHCOiVFZ_lzTzW1wcE7l2qxbUTCU7DM7La-qXi8UW6VFf7ZS_d3-aoA4TWBTsSh0g4GvvQUD0cfLc-qrf97vQNWA",
+            "address": {
+                "streetAddress": "8 East Huron Street",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8950138,
+                "longitude": -87.6279149
+            },
+            "menuPath": "/joe-the-juice-huron-state-chicago/f28d",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671760800000,
+            "tags": [
+                "Juices & Smoothies",
+                "Sandwiches"
+            ],
+            "promotions": [],
+            "hasDelivery": false,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": false,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T13:00:00Z",
+                    "to": "2022-12-23T02:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T13:00:00Z",
+                    "to": "2022-12-24T02:00:00Z"
+                }
+            ],
+            "distanceInMeters": 650,
+            "formattedDistanceString": "0.4 mi"
+        },
+        {
+            "id": "0ffed57d72e044c59275eecbe0cf6088",
+            "name": "Nonnina To-Go (340 N Clark St)",
+            "nameWithoutLocation": "Nonnina To-Go (340 N Clark St)",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/-kJ2bxDFWeiH6M2ZuxbslpmcbziorJ0_ZDqB5bCQV9yx7DXcRE8IYasoAAoQje9q071ILpZhWx5UEj7VyMDXk-Prdio",
+            "squareImageUrl": "https://lh3.googleusercontent.com/TAoM2e0rOi_yG_Xp0p_0PLYX6mzs_z7Mitjurtv1SERlrWblas9CLfwe2_-sJuCB9-RwGxVJhG0GAfc9BjlUbgApzqc",
+            "address": {
+                "streetAddress": "340 N Clark St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.888653,
+                "longitude": -87.631181
+            },
+            "menuPath": "/nonnina-to-go-340-n-clark-st-chicago/66b1",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671742800000,
+            "tags": [
+                "Italian",
+                "Sandwiches"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T17:00:00Z",
+                    "to": "2022-12-22T21:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T17:00:00Z",
+                    "to": "2022-12-23T21:00:00Z"
+                }
+            ],
+            "distanceInMeters": 659,
+            "formattedDistanceString": "0.4 mi"
+        },
+        {
+            "id": "7eb8537125fc4ae0a710af53cc9e1dfa",
+            "name": "West Town Bakery (State/Ohio)",
+            "nameWithoutLocation": "West Town Bakery",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/sPyTFWMbKQV1DG_cfFR0rcCpFLkQEq8kqyq6ij2WaeOd_5NCbj4P0T-IyjxVGwk5s1IghQiHXy98Hb5-zcxMOqGlChDN",
+            "squareImageUrl": "https://lh3.googleusercontent.com/URSVuD3fDV-nmsVUa_gC3pRWsp-1RIJtsWqJkZ7jKRol29lw6VTbv7JMQ3xQf9dknAE_-RiYuB-TPaCF9aCnjmjuoA",
+            "address": {
+                "streetAddress": "15 E Ohio St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.89224,
+                "longitude": -87.627512
+            },
+            "menuPath": "/west-town-bakery-state-ohio-chicago/dx80",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Coffee",
+                "Breakfast"
+            ],
+            "promotions": [],
+            "hasDelivery": false,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": false,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T13:00:00Z",
+                    "to": "2022-12-22T17:30:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T13:00:00Z",
+                    "to": "2022-12-23T17:30:00Z"
+                }
+            ],
+            "distanceInMeters": 682,
+            "formattedDistanceString": "0.4 mi"
+        },
+        {
+            "id": "a2b66bfc27954fa9b9357e04ec120261",
+            "name": "Subway (State/Grand)",
+            "nameWithoutLocation": "Subway",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/dKNsNV1hfL9mhI-PGXoHWnzV7qdaTMmd29hR-7k1tN3jMCteVgn5LKC8T7ILLcLhlinye7YcUSCJPe_1Wz-0hZ-Xy8Mp",
+            "squareImageUrl": "https://lh3.googleusercontent.com/lr5rA1yMtYvdl2dXEUECEeokq75fLIu7NbTub900UKDvDhaGYEL855i5ZhwfmsJ6r_MF33G1kBPDJvdVWydoWso7SrQ",
+            "address": {
+                "streetAddress": "447 N State St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8905987,
+                "longitude": -87.6279012
+            },
+            "menuPath": "/subway-state-grand-chicago/71dd",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671793200000,
+            "tags": [
+                "Sandwiches"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T11:00:00Z",
+                    "to": "2022-12-23T11:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T11:00:00Z",
+                    "to": "2022-12-24T11:00:00Z"
+                }
+            ],
+            "distanceInMeters": 716,
+            "formattedDistanceString": "0.4 mi"
+        },
+        {
+            "id": "528e43d38b0a43f59e185adbd3572c6c",
+            "name": "Star of Siam",
+            "nameWithoutLocation": "Star of Siam",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/8zq7PX2IBSfqRTHmk18hz9yJTtqUcNB3tPHP6PRTanJmHZNiEwPYuuTsJu_DlADkJYnxWl-TjNihT3Ms3qRy6lOZ17I",
+            "squareImageUrl": "https://lh3.googleusercontent.com/f8nMjwiLuiMRqo82ZtOeTeSN_iiR9dKNvk60ZVDkRPvwKOyfBeI4dKPX4_fHHfzsVPxcrAwAqZhcy4fqZj7xiQ_32g",
+            "address": {
+                "streetAddress": "11 E Illinois St.",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.89080047607422,
+                "longitude": -87.62750244140625
+            },
+            "menuPath": "/star-of-siam-11-e-illinois-st-chicago/rr6",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671765300000,
+            "tags": [
+                "Thai"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T17:00:00Z",
+                    "to": "2022-12-23T03:15:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T17:00:00Z",
+                    "to": "2022-12-24T03:45:00Z"
+                }
+            ],
+            "distanceInMeters": 735,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "6f86d32a0cad4e7684080e0586d29a42",
+            "name": "Pizzeria Portofino (Clark/James C. Tyree)",
+            "nameWithoutLocation": "Pizzeria Portofino",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/-UjvGVXsDwO8cagRKAc56VYBHROh4XyqPuhTBnyCRZV1GADIHdhkjAvAhfEZ8uwQMVPfMLMtvuagU0N1K_KfmW84IYqJ81krcR8x6TCUbQ",
+            "squareImageUrl": "https://lh3.googleusercontent.com/FTfXfvvRf3OLz0-5adHsil4UhGnsr7e6FyMghNe2UGVsmjtaSVRz7ALgjQtjUXXSHlobwkRKjqasYuVdQR0VZb7wndM-DeUYdegpsrVp",
+            "address": {
+                "streetAddress": "317 North Clark Street",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8879836,
+                "longitude": -87.6307625
+            },
+            "menuPath": "/pizzeria-portofino-clark-james-c-tyree-chicago/ffbc",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671760800000,
+            "tags": [
+                "Italian"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T17:00:00Z",
+                    "to": "2022-12-23T02:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T17:30:00Z",
+                    "to": "2022-12-24T03:30:00Z"
+                }
+            ],
+            "distanceInMeters": 741,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "671bc66637274adb92abbf4207ec3cb6",
+            "name": "L'APPETITO (Wabash/Huron)",
+            "nameWithoutLocation": "L'APPETITO",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/vlYwRElpixQbwcEgIrBpbmyuWfsp3qGaLbaqMMEQojPgYy_oN2sWRQ0KxZzAPXVWjTxXq_DJNywsu-n1xA1yD-MzIIND",
+            "squareImageUrl": "https://lh3.googleusercontent.com/43t0YyQb5RBdAJKk9zgwTdOlcVFFCEmZ_6bRuRmV4DZAP1cnndU0hGOEdtpjxIFxu2HqVdzw_h82sPYLSG_df3udUtw",
+            "address": {
+                "streetAddress": "30 E Huron St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.895033,
+                "longitude": -87.626613
+            },
+            "menuPath": "/lappetito-wabash-huron-chicago/e3c3",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671753600000,
+            "tags": [
+                "Breakfast",
+                "Sandwiches"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T13:30:00Z",
+                    "to": "2022-12-23T00:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T13:30:00Z",
+                    "to": "2022-12-24T00:00:00Z"
+                }
+            ],
+            "distanceInMeters": 755,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "f5a9a8c478884588b1bba5fae47cba21",
+            "name": "Dough Bros Pizzeria and Subs (400 N State St)",
+            "nameWithoutLocation": "Dough Bros Pizzeria and Subs (400 N State St)",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/D5PFkSLz_tAJD1os2yXThW9sRSC4UveHYL7M91pD2wTjH8E2e8njM5Ssnm2Q5ylp6CSD_TTb1B9Eo1IL3Uc-2WvH4A",
+            "squareImageUrl": "https://lh3.googleusercontent.com/8hI1KrNT0V28hCg3Hrg6uatf-LPRJUpbx2Y72zd2lPc1IZMUKWPV06MByn7F0IrEkZuEU7YsrwtJJc8k0151Ph06_Xk",
+            "address": {
+                "streetAddress": "400 N State St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.88949966430664,
+                "longitude": -87.62799835205078
+            },
+            "menuPath": "/dough-bros-pizzeria-and-subs-400-n-state-st-chicago/d1z",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671777000000,
+            "tags": [
+                "Pizza",
+                "Italian"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T17:00:00Z",
+                    "to": "2022-12-23T06:30:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T17:00:00Z",
+                    "to": "2022-12-24T09:30:00Z"
+                }
+            ],
+            "distanceInMeters": 774,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "9c90fea94b4443a4a0ed8de8d6c96bf2",
+            "name": "Dog Haus (Wacker/Wells)",
+            "nameWithoutLocation": "Dog Haus",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/c_4aDipC8fL0SFduISDZTRzGsKzrE6A-NspgGPERN4xd5pNQFPZaFFC8b5-PALg8Ok2yJCKsy4yhv0Lbn3d_MBmSHRN84q8PS2RD7Ck",
+            "squareImageUrl": "https://lh3.googleusercontent.com/F6EO7jom6tWjb1V6tJSfzKFxvND5fWt91f0b1Nd9tZcWQ5QbL_3U-GQiVAu3dLpia_QSZZtRBxexpPdE1TQ-i0l9tPuebGciTpHbgJ8",
+            "address": {
+                "streetAddress": "205 West Wacker Drive",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8864436,
+                "longitude": -87.6342963
+            },
+            "menuPath": "/dog-haus-wacker-wells-chicago/15db",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671771600000,
+            "tags": [
+                "American"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": false,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T15:00:00Z",
+                    "to": "2022-12-23T05:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T15:00:00Z",
+                    "to": "2022-12-24T05:00:00Z"
+                }
+            ],
+            "distanceInMeters": 804,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "62f9cd43729544a589e35fcf39afa87f",
+            "name": "The Cumin Bowl (Wacker/Chicago)",
+            "nameWithoutLocation": "The Cumin Bowl",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/XHvY27Cn1eLSFE5-Mu2f3Fq9JTGuaNXIGRVV73ZUxXKzH-7n-8-H1Kq87BMeOZlWjofQ04sT2H7P4M4Hzjd6MTsc0_03A0CqyKPqv3c",
+            "squareImageUrl": "https://lh3.googleusercontent.com/owzv62Hvw5j8p3NtHRsP15mlN9iLPSbt33LWpzMRfS3D2gpImTWMcB9LXsFmqXhj8JydSTLmrHvhX0tt2ca8VsWGcGCp6YZFUzZoBMZe",
+            "address": {
+                "streetAddress": "205 West Wacker Drive",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8864436,
+                "longitude": -87.6342963
+            },
+            "menuPath": "/the-cumin-bowl-wacker-chicago-chicago/28dd",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671771600000,
+            "tags": [
+                "Bowls",
+                "Indian"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T16:00:00Z",
+                    "to": "2022-12-23T05:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T16:00:00Z",
+                    "to": "2022-12-24T05:00:00Z"
+                }
+            ],
+            "distanceInMeters": 804,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "28c311ab4ee040a0983456dc7c289eda",
+            "name": "HERO Coffee Bar (Wacker/LaSalle)",
+            "nameWithoutLocation": "HERO Coffee Bar",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/9MbTMas0WHENRrYj6cL-QE0PWxWd4rvocugS4OJIevz3cUEi9IH7hrydlgDtKYf6iWbBJkW2mkSilzZv7cT1S_bvq89L",
+            "squareImageUrl": "https://lh3.googleusercontent.com/WE6xG5ypIGZjsVH4oMrca9npycyyieeDOqjKJI5jXONkvUl2uQewzqZrECzaK8WwSBhr-m1irJPcqELSfV6hnPtHwsQ",
+            "address": {
+                "streetAddress": "222 North LaSalle Drive",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8865109,
+                "longitude": -87.6335993
+            },
+            "menuPath": "/hero-coffee-bar-wacker-lasalle-chicago/2229",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Coffee",
+                "Sandwiches"
+            ],
+            "promotions": [],
+            "hasDelivery": false,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": false,
+            "nextOpenHours": [],
+            "distanceInMeters": 806,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "4e0ab430497441e79f814a692f6f2a52",
+            "name": "Texican (Chicago/Larrabee)",
+            "nameWithoutLocation": "Texican",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/NyKTY6ejRmRsX9sHoi00FjuV73mixEZQY4sYzVHgws0R8H2SrgD0zl8Yw1skvlNn8cIvL_SpTxfP_cR2iqiEXfcGmXs",
+            "squareImageUrl": "https://lh3.googleusercontent.com/SKvmUwbVd-nrz4p8yql4r-9E-pcn7rR-juGSrATFlWB4wRm2Pr_smYcGs4UKr_hrna68Y45GOstOOrcfMdjkytXDL2I",
+            "address": {
+                "streetAddress": "869 N Larrabee St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8985,
+                "longitude": -87.642842
+            },
+            "menuPath": "/texican-chicago-larrabee-chicago/acdf",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671786000000,
+            "tags": [
+                "Mexican",
+                "Breakfast"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T15:00:00Z",
+                    "to": "2022-12-23T09:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T15:00:00Z",
+                    "to": "2022-12-23T21:00:00Z"
+                }
+            ],
+            "distanceInMeters": 813,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "1c659822adf748479c76359c891794c9",
+            "name": "Halsted Street Deli & Bagel (La Salle/Haddock)",
+            "nameWithoutLocation": "Halsted Street Deli & Bagel",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/3QaWv09_x0M2wHQoWraYlO7Ivb1pL1glyfXlZaNhw3WiRRIZVL5tjfiVaOVh8DcXTdzNC1DxMEi7JnmfuyGnkbjpCPl8IHmio2nzXItJ",
+            "squareImageUrl": "https://lh3.googleusercontent.com/-MvADiG7mUBGWsIp3g7vWKM52RUI6CdW3DQaZJuY-FwYlRaQUFssc3XgLurjkUyuOVlqe2Lr5UIxDUuTaoDclNZykwQ1udjSOFHuXA9k",
+            "address": {
+                "streetAddress": "222 North La Salle Street",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8865777,
+                "longitude": -87.6327762
+            },
+            "menuPath": "/halsted-street-deli-bagel-la-salle-haddock-chicago/196c",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Sandwiches"
+            ],
+            "promotions": [],
+            "hasDelivery": false,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T14:00:00Z",
+                    "to": "2022-12-22T20:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T14:00:00Z",
+                    "to": "2022-12-23T20:00:00Z"
+                }
+            ],
+            "distanceInMeters": 815,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "103c5ebe07e7466498425084fa7320ac",
+            "name": "Goddess and Grocer (Chicago/Larrabee)",
+            "nameWithoutLocation": "Goddess and Grocer",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/HKaw14GEXQjBOfG9goECM9nxSGxizlogjcu1PIdDlYllpPyg1gHLxa_eF80rUg1AyOhrpKPhuylurfkr7ow4SvvgGg",
+            "squareImageUrl": "https://lh3.googleusercontent.com/_3OR_9zBx8LeV4SW82LFUAsZSNfvGyuiXZecD5Hu3klS0oDXLIfMK6wgCO10Resysa_jLG7A2w36UBvmFIm_xEPVoElT",
+            "address": {
+                "streetAddress": "901 N Larrabee St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.898637,
+                "longitude": -87.642738
+            },
+            "menuPath": "/goddess-and-grocer-chicago-larrabee-chicago/279b",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Sandwiches",
+                "Salads"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T13:00:00Z",
+                    "to": "2022-12-22T19:30:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T13:00:00Z",
+                    "to": "2022-12-23T19:30:00Z"
+                }
+            ],
+            "distanceInMeters": 817,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "199389683b834c7a917efc2d76163210",
+            "name": "Goodwin's Restaurant (Wacker/Lake)",
+            "nameWithoutLocation": "Goodwin's Restaurant",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/dWNifsiV-YG1DBXb40gue86dL0LhtN_Ad6SCRu8_4X7JbLXNHVDTgjvjsTjpl8NtiA03Xcq82TFlpRWy3VRbUxCfxg",
+            "squareImageUrl": "https://lh3.googleusercontent.com/MMZK4Txl0FzSbXT4qd8ad60yOAAhmp0V9kYN29bbkqYMd0z5ch_hIGaT2xApDCMlttJX-45_mXz7TqMWnVX0eM7EgWo",
+            "address": {
+                "streetAddress": "333 W Upper Wacker",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.88610076904297,
+                "longitude": -87.63600158691406
+            },
+            "menuPath": "/goodwins-restaurant-wacker-lake-chicago/mlwe",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Sandwiches",
+                "Salads"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T13:45:00Z",
+                    "to": "2022-12-23T19:45:00Z"
+                }
+            ],
+            "distanceInMeters": 837,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "86bd911ca4b84814a14561df7a907713",
+            "name": "Silver Spoon Thai Restaurant (Superior/Rush)",
+            "nameWithoutLocation": "Silver Spoon Thai Restaurant",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/SIp6KoxdqIgP0SveR_I08egch6e1jiPEyyYDuXmXcgC_0ktbUcbzvQiO6b_LRl4zMO7jNdBcbB25cjKBPWAh5Wtm2Qs",
+            "squareImageUrl": "https://lh3.googleusercontent.com/vj3nkD8PlhP859TjVygL0wADuhm_mhu8CZtEfbJVIssoKMVeDE7JA0cXHl1H1DJ-O_EcwDJhulGqYmG8qOTagU4zJF2n",
+            "address": {
+                "streetAddress": "710 N Rush St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.895353,
+                "longitude": -87.625635
+            },
+            "menuPath": "/silver-spoon-thai-restaurant-superior-rush-chicago/a50c",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671768000000,
+            "tags": [
+                "Thai",
+                "Asian"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T17:00:00Z",
+                    "to": "2022-12-23T04:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T17:00:00Z",
+                    "to": "2022-12-24T05:00:00Z"
+                }
+            ],
+            "distanceInMeters": 842,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "7103ed876ba8493fa2af2f6dce61deaf",
+            "name": "Potbelly Sandwich Shop (Chicago/Rush)",
+            "nameWithoutLocation": "Potbelly Sandwich Shop",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/T4qQEMNQuRVPGt8nrY-Q6B_P3XW3h6BleL8vcpz6ZePfj5LYy-qubVx3pma_ohiS3OYNBRxw3n8-SdkpfkF07mpyjeOayQaGdx0tdLlj",
+            "squareImageUrl": "https://lh3.googleusercontent.com/wZ3T8Rh-1QoRfGZ4YFBonEiDaeoCJtunOeU8uc8jw7O0eBM3EP3QBpORfo3-BZMB_WUqLP-oP2WaugNbRsWMkbwFkhMtIWUXthIjJiDgTQ",
+            "address": {
+                "streetAddress": "57 East Chicago Avenue",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8965306,
+                "longitude": -87.6260128
+            },
+            "menuPath": "/potbelly-sandwich-shop-chicago-rush-chicago/e57c",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671768000000,
+            "tags": [
+                "Salads",
+                "Breakfast"
+            ],
+            "promotions": [],
+            "hasDelivery": false,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T13:00:00Z",
+                    "to": "2022-12-23T04:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T13:00:00Z",
+                    "to": "2022-12-24T04:00:00Z"
+                }
+            ],
+            "distanceInMeters": 852,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "9147c66eaad04d2fbaef70818e0cf9db",
+            "name": "Bongiorno's",
+            "nameWithoutLocation": "Bongiorno's",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/Y2S0_c5gIstAl-ZlU3ENfW-c0zl9ZFAIn5A64YwW9gzAEC0aNBXvbYqfDAhaoBPjG-x-JWGTgxv9qhXnzyc0CKAozF8",
+            "squareImageUrl": "https://lh3.googleusercontent.com/qbmynRy_vf9m8edD3_jXZFyKWyBSK59VCm5FXj3MjlBikuohBsohVe-_0Gw7jiXU9jcgcX0BUgqC4ZqUbGy0yfeytkU",
+            "address": {
+                "streetAddress": "405 N Wabash Ave",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.88990020751953,
+                "longitude": -87.62650299072266
+            },
+            "menuPath": "/bongiornos-405-n-wabash-ave-chicago/kaid",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671762600000,
+            "tags": [
+                "Italian",
+                "Pizza"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T17:00:00Z",
+                    "to": "2022-12-23T02:30:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T17:00:00Z",
+                    "to": "2022-12-24T03:15:00Z"
+                }
+            ],
+            "distanceInMeters": 854,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "2f043a0128e64c62927e40dab2d453b0",
+            "name": "Ajida Ramen & Japanese (201 N Wells St)",
+            "nameWithoutLocation": "Ajida Ramen & Japanese (201 N Wells St)",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/CNYmPARp7lucx1t32MeSWPMTu9VwlKBc36-D2UTOXPSFCrmsc3InuVoYqKb7LUIoeKEko8DYStXWDvHXOZZi6WgJeQE",
+            "squareImageUrl": "https://lh3.googleusercontent.com/lV6LAYmGDVyE18WCQ62Aek3LHiN53umMcFA0V73G2sDkMrT9rbg_aWmmsx-Qidf3C5ezLbKAMHM8GNv74NJBrd9Dmf8",
+            "address": {
+                "streetAddress": "201 N Wells St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.88600158691406,
+                "longitude": -87.63369750976562
+            },
+            "menuPath": "/ajida-ramen-japanese-201-n-wells-st-chicago/xkq",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671759900000,
+            "tags": [
+                "Japanese"
+            ],
+            "promotions": [],
+            "hasDelivery": false,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": false,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T16:00:00Z",
+                    "to": "2022-12-23T01:45:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T16:00:00Z",
+                    "to": "2022-12-24T01:45:00Z"
+                }
+            ],
+            "distanceInMeters": 860,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "b3c0f8b8e3c443b89b9753b68ac7dfde",
+            "name": "Boar's Head Cafe (Lake/Wells)",
+            "nameWithoutLocation": "Boar's Head Cafe",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/7ahT8X6TuW9CowmFdH3pifwTtv28jhFGwqOJ05BxNEUDfOp5rkSJSrgomdxTHTjIu19wwUrshuSudAGH82bQ43kO9JUg",
+            "squareImageUrl": "https://lh3.googleusercontent.com/TM51WcPdrPRIMP_Cwk2hh92s3fHX7ObIA3wrfugCXhunZWiqD0tDv0ZuLSZkTdaw79GV1iSzCSKX88-LasFFCMJfVuV1",
+            "address": {
+                "streetAddress": "210 W Lake St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.885887,
+                "longitude": -87.634434
+            },
+            "menuPath": "/boars-head-cafe-lake-wells-chicago/3df3",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Sandwiches",
+                "Salads"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": false,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": false,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T12:30:00Z",
+                    "to": "2022-12-22T20:45:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T12:30:00Z",
+                    "to": "2022-12-23T20:45:00Z"
+                }
+            ],
+            "distanceInMeters": 864,
+            "formattedDistanceString": "0.5 mi"
+        },
+        {
+            "id": "32e8b33d01c448d3b297a6e8f4462306",
+            "name": "Joe & The Juice (E Delaware/State)",
+            "nameWithoutLocation": "Joe & The Juice",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/N2HdKtZ2S0SeLeYoDoNcPGvcMrS-M-CtiyPIxIKa63T2xMrMIcR3tXz7m0JV3GLceJLJg_vYdSk-kk-0hYYZmqbwi0F85c5zA2f9aTJAuA",
+            "squareImageUrl": "https://lh3.googleusercontent.com/1o3IJ9l7JJ_Jh2_BreXbyCNOmbDG4x3DXjDs5XUa0TOj3H7fxs7citBfJK6RdkpUB_rjZXzbY46133ogV_u45ITsUfLspxMXFjet14Cx",
+            "address": {
+                "streetAddress": "10 East Delaware Place",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8993009,
+                "longitude": -87.6279319
+            },
+            "menuPath": "/joe-the-juice-e-delaware-state-chicago/1b12",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671753600000,
+            "tags": [
+                "Juices & Smoothies",
+                "Sandwiches"
+            ],
+            "promotions": [],
+            "hasDelivery": false,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": false,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T16:00:00Z",
+                    "to": "2022-12-23T00:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T16:00:00Z",
+                    "to": "2022-12-24T00:00:00Z"
+                }
+            ],
+            "distanceInMeters": 892,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "8e523882b95e4ad5aadfdeeae0473e2a",
+            "name": "Big Shoulders Coffee (Wells/Lake)",
+            "nameWithoutLocation": "Big Shoulders Coffee",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/bJXMTfiH3v5cmCfyWsfWeH0pknRxT28iDcRh0avhAsoYWx-6ZD_HHWHf-LNnb5rxF3oO2J98SG2uK4vNKkq4pm-FydQ",
+            "squareImageUrl": "https://lh3.googleusercontent.com/znDe64pNqpD04f4aEuSmjaZvKIojFchC4WDcHpt5lHc4O7yA-5vo2IZBxusGEWWC1XancnowM2dyLisHL323LtWZ6J6w",
+            "address": {
+                "streetAddress": "213 W Lake St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.885609,
+                "longitude": -87.634582
+            },
+            "menuPath": "/pray-tell-college-ossington-toronto/6b59",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Coffee",
+                "Baked Goods"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T13:00:00Z",
+                    "to": "2022-12-22T20:30:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T13:00:00Z",
+                    "to": "2022-12-23T20:30:00Z"
+                }
+            ],
+            "distanceInMeters": 894,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "02682f90c02c42d4ad8260d91f1c4e77",
+            "name": "Halsted Street Deli & Bagel (203 N LaSalle)",
+            "nameWithoutLocation": "Halsted Street Deli & Bagel (203 N LaSalle)",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/Q8-TKsBdCM99HhqfXHMOxmBYPthddjR6kWhdG6xoJwwnnJczNwlcGmCkh5UPQ9h8ooqu258r4RwGxc5t_TXm0h3k_w",
+            "squareImageUrl": "https://lh3.googleusercontent.com/zskNkXiNHIOGV5uUPVIFTKCxPpr86HmPYJR9ckVUnaLmHIceLTB07bAuoLccHDCOR4lqYyN9PFMOx1u9HqlqdfmluRE",
+            "address": {
+                "streetAddress": "203 North LaSalle Drive",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.885965,
+                "longitude": -87.631749
+            },
+            "menuPath": "/halsted-street-deli-bagel-203-n-lasalle-chicago/2457",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Sandwiches",
+                "Salads"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T15:15:00Z",
+                    "to": "2022-12-22T19:45:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T15:15:00Z",
+                    "to": "2022-12-23T19:45:00Z"
+                }
+            ],
+            "distanceInMeters": 907,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "66dad6ee31174497bde747abd704651e",
+            "name": "Mixed Greens (Franklin/Lake)",
+            "nameWithoutLocation": "Mixed Greens",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/jrPo1JEKokQhD55YQh3Lq1yC01oTN7jRIWlUQZPsc46BFOTKAVbFJL4V0WGnwgiu7FnI-sk1HVemdUB6_RCxF5oOIK4",
+            "squareImageUrl": "https://lh3.googleusercontent.com/Z5m2b5T7RkSPxSFALT74cL9kx4RQ4xC9Xq0Teki6B8nNQkMTVVIFEkdrm8JAtTY0-2cN43u03ifPhtnK9krGFUedgbU",
+            "address": {
+                "streetAddress": "175 N Franklin St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8854548,
+                "longitude": -87.6350139
+            },
+            "menuPath": "/mixed-greens-franklin-lake-chicago/7amw",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Salads"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T16:00:00Z",
+                    "to": "2022-12-22T20:45:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-27T16:00:00Z",
+                    "to": "2022-12-27T20:45:00Z"
+                }
+            ],
+            "distanceInMeters": 908,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "f248be09008b449ba4bea1fd959da02f",
+            "name": "Naansense (Franklin/Lake)",
+            "nameWithoutLocation": "Naansense",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/M-GGPjUsAjV2hPJ9Up9q8IiI3V_zuI0qKJQFt6AbrrSgzOmxtbLyczt08MHHWBAQzL1bd4dWjaS_xiJWcirqcfWea2VrSgJcpMtNGkLw",
+            "squareImageUrl": "https://lh3.googleusercontent.com/vn_htRku13eKyhzLybl8fiwzFtA5_GeN9eLywfg2QDhVxsPiH9V8HR7rn2_z5RoZcy4DAlW8e4TjB3vhrGgtEqfJJkeRFMUVTccuLg5BgQ",
+            "address": {
+                "streetAddress": "178 North Franklin Street",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8854414,
+                "longitude": -87.6357007
+            },
+            "menuPath": "/naansense-franklin-lake-chicago/9710",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671742800000,
+            "tags": [
+                "Indian",
+                "Wraps"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T17:00:00Z",
+                    "to": "2022-12-22T21:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T17:00:00Z",
+                    "to": "2022-12-23T21:00:00Z"
+                }
+            ],
+            "distanceInMeters": 909,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "ec34664513c946c1980ee1460e0d39cd",
+            "name": "Cheezcake Boutique (Michigan/Grand)",
+            "nameWithoutLocation": "Cheezcake Boutique",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/SMhJ1eBuMVqiX4-nLpglQHDtvCoX-YVy3_T4fDEASH3oZh56Wje7iEKJGEk_LIgtx5Oj0i6JINyIVWlYTM-jHZs14jM4Ffvgr3m-Z53PZA",
+            "squareImageUrl": "https://lh3.googleusercontent.com/PfKRmgCRKO1TI47ACWE5D7HD8fD5h_eteYkDN5bpIvirLAb8cMXuYEHAlhF-BTLn2xiBtP5vG0NUgE9SfTtYDI5bGMqGT5EGnZonN04e",
+            "address": {
+                "streetAddress": "520 North Michigan Avenue",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8915257,
+                "longitude": -87.6248853
+            },
+            "menuPath": "/cheezcake-boutique-michigan-grand-chicago/edcb",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671760800000,
+            "tags": [
+                "Sweets",
+                "Tea"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T17:00:00Z",
+                    "to": "2022-12-23T02:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T17:00:00Z",
+                    "to": "2022-12-24T02:00:00Z"
+                }
+            ],
+            "distanceInMeters": 912,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "524c7c23e81147c991b7e1704f6e1157",
+            "name": "Taza Cafe (176 N Franklin St)",
+            "nameWithoutLocation": "Taza Cafe (176 N Franklin St)",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/25CIgaES3WvdloE2CAEWuCL5C66OUmcRvQi6yrIZ5IkwL_N3YcejCPKAkhgbMB9Ybyosuv1YLPZxBUhnnZYychREvSkr",
+            "squareImageUrl": "https://lh3.googleusercontent.com/3TsbWoYzRB3_5_n2-nCL7jBDtEDFHS2phMZ-F-5MPz5wzR7T2HOpY_dsxwxmY9EPbLdNjC1jLjS3VMWsUzId3ZWr0XU",
+            "address": {
+                "streetAddress": "176 North Franklin",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.885398864746094,
+                "longitude": -87.63569641113281
+            },
+            "menuPath": "/taza-cafe-176-n-franklin-st-chicago/l3ed",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Middle Eastern"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "nextOpenHours": [],
+            "distanceInMeters": 914,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "11533ff8094a45a3a24ce470bfad6eb8",
+            "name": "Subway (Wells/Lake)",
+            "nameWithoutLocation": "Subway",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/WkRjoNIAIYujzmWcINpq_EDdKeasRtCNfJGwX9SCUGhquqE-o4bvabJ1w9MjhZYvu_DQwG-Pi4WJAxy6oRaqCZHdUpA",
+            "squareImageUrl": "https://lh3.googleusercontent.com/HkI-R7FmbcVN8u9H6nbwDCAzSDKIC1pNja-rfpK83nOYKHrdz5CF3pnHBh2o-0zIrRdOe6xFgBoMKjmRd5krWjKCy1w",
+            "address": {
+                "streetAddress": "177 N Wells St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8854783,
+                "longitude": -87.6335878
+            },
+            "menuPath": "/subway-wells-lake-chicago/3mig",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671748200000,
+            "tags": [
+                "Sandwiches"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T16:00:00Z",
+                    "to": "2022-12-22T22:30:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T16:00:00Z",
+                    "to": "2022-12-23T22:30:00Z"
+                }
+            ],
+            "distanceInMeters": 919,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "2e798835a84042e08877322794f8d25f",
+            "name": "La Cocina Bar & Grill (Lake/Wells)",
+            "nameWithoutLocation": "La Cocina Bar & Grill",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/n6C6GKXwAB0vS6AZ983Y6nI-J-wXmk77VcV7qPmLssc15Dz91rpp7VptBuk8ikzQQpdjCFUhSP00Q78t7CJBvcqJra4",
+            "squareImageUrl": "https://lh3.googleusercontent.com/irhzcLTQSCpvKQAm-DTO8PAFBF4aKkwsJI5AgXppoJMBR1zTa_VLVN1HmQfVcasL55cVLj_fdnIkjUSFDtF2PtTBhbU",
+            "address": {
+                "streetAddress": "209 W Lake St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8853836,
+                "longitude": -87.6343896
+            },
+            "menuPath": "/la-cocina-bar-grill-lake-wells-chicago/f3d5",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671750000000,
+            "tags": [
+                "Mexican"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T15:00:00Z",
+                    "to": "2022-12-22T23:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-26T15:00:00Z",
+                    "to": "2022-12-26T23:00:00Z"
+                }
+            ],
+            "distanceInMeters": 920,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "ec8b7d38ade2494e820d6384135da053",
+            "name": "Asada Mexican Grill (180 N Wells St)",
+            "nameWithoutLocation": "Asada Mexican Grill (180 N Wells St)",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/8sP7GWxxz3cOs1OT68f2dtq0nQNWg4MhiKQaSMe9s62PkgZ12lx32wndLfJAxopVOpKdi1bpQc9-9FeTychngmO68AmU",
+            "squareImageUrl": "https://lh3.googleusercontent.com/MbcRoKWpndNXb5oCh6BeGOugml5Eu_3dSQpOseB0CYW8dRhFwmu3xAYPALMxb0oGrGzX6Yr6DwzmMG1sjOz1N-luCWs",
+            "address": {
+                "streetAddress": "180 N Wells St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.88536,
+                "longitude": -87.634149
+            },
+            "menuPath": "/asada-mexican-grill-180-n-wells-st-chicago/nch2",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Mexican"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T14:00:00Z",
+                    "to": "2022-12-22T20:30:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T14:00:00Z",
+                    "to": "2022-12-23T20:30:00Z"
+                }
+            ],
+            "distanceInMeters": 925,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "a42e6e013e0b40278a95c1a2bb2d2801",
+            "name": "Imee's Kitchen (Wells/Lake)",
+            "nameWithoutLocation": "Imee's Kitchen",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/k4mMD0P_kahl9WpuhReWqsXpNW3T7BDCMkRwz6WSv_fkNKiB1mOEEz_KMku6OT3-ZQPlol4b_ACk_9cFjxcQo_Ow2Kceh1S73pjTmHJ9",
+            "squareImageUrl": "https://lh3.googleusercontent.com/CMpA5YdmZa-D4DNJAtHEpxSaQWbCGpV10rRIagmSwkcr9w2vAZbz1JBARiNpLSBkbdoQVg_IbJBofW-gCcvBIIIdwC1zr3GAv0dYLMrF",
+            "address": {
+                "streetAddress": "171 North Wells Street",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.8852975,
+                "longitude": -87.6337472
+            },
+            "menuPath": "/imees-kitchen-wells-lake-chicago/78ea",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Mediterranean",
+                "Wraps"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-27T17:00:00Z",
+                    "to": "2022-12-27T21:00:00Z"
+                }
+            ],
+            "distanceInMeters": 937,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "66f6355ec3074aa689bf6c87a6c98623",
+            "name": "Catch & Carry",
+            "nameWithoutLocation": "Catch & Carry",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/cyHHqPsEmLm-Wud8dFkPT8XZ9eHS67I9Ny-Qaj4cmcY9sN3lw8d5I3xhfJimm9FROJDSN9YjrivYfk-pzHvTXBfsBIQ",
+            "squareImageUrl": "https://lh3.googleusercontent.com/Xyg4DptwZoYUkpzAZPT6IhvirRs70BvrNWjrAZa4xUZDppyI3DC4gLRr4XrqAG0BhTwHO7TlpixefP_39l12nVdI3X4",
+            "address": {
+                "streetAddress": "35 W Wacker Dr",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.886600494384766,
+                "longitude": -87.62920379638672
+            },
+            "menuPath": "/catch-carry-35-w-wacker-dr-chicago/01ut",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Seafood",
+                "Breakfast"
+            ],
+            "promotions": [
+                {
+                    "type": "TOP_MERCHANT"
+                }
+            ],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T13:30:00Z",
+                    "to": "2022-12-22T18:45:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-26T13:30:00Z",
+                    "to": "2022-12-26T19:45:00Z"
+                }
+            ],
+            "distanceInMeters": 940,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "6490951418604d8091539dda221972df",
+            "name": "Lao Sze Chuan",
+            "nameWithoutLocation": "Lao Sze Chuan",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/yQVZEBcI7dxroyXp9m9_qvGsidarPsGHX5eDdK8Vfbjm20RQ7DcsSxVoybnc7OeM7--xWAu6j8qDOmXlB0pkZQb-0xM",
+            "squareImageUrl": "https://lh3.googleusercontent.com/s2ke1J0AcdVRvW_1Gwd3URmbE9-WeZL4Kdo5SIKpgV-K1MwiW_2A706PsnqzcZ6CmI3pCAft6z2CfC1fo-vRTFFBlU4",
+            "address": {
+                "streetAddress": "520 N Michigan Ave",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.891482,
+                "longitude": -87.624537
+            },
+            "menuPath": "/lao-sze-chuan-theshopsatnorthbridge-chicago/bbc1",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671766200000,
+            "tags": [
+                "Chinese"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T17:00:00Z",
+                    "to": "2022-12-23T03:30:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T17:00:00Z",
+                    "to": "2022-12-24T04:30:00Z"
+                }
+            ],
+            "distanceInMeters": 941,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "da93f2d8a1b94b5e95f9c9672a15f58c",
+            "name": "Rosati's Pizza (Wells/Couch)",
+            "nameWithoutLocation": "Rosati's Pizza",
+            "isAvailableNow": true,
+            "imageUrl": "https://lh3.googleusercontent.com/6NBcPW9DTkeWqLHFAlCccocvkdgirHf9rGTfypJVJgtIjOgMQUt0aTFyHsoiNN1uWzNyDAVCmAbJa9Zne3TD__UIEW3e",
+            "squareImageUrl": "https://lh3.googleusercontent.com/VZJf8BVqz9vD2I18SiZBNPfibBXRLXXY9vufYHegQWZ0MA3z9qunA_a7NwCj3K0_pFHQNuGue_NGhXxbPrR-guq6kFR0",
+            "address": {
+                "streetAddress": "176 North Wells Street",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.88515779999999,
+                "longitude": -87.6341944
+            },
+            "menuPath": "/rosatis-pizza-wells-couch-chicago/8a24",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": true,
+            "nextCloseTimestamp": 1671783300000,
+            "tags": [
+                "Pizza"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T16:00:00Z",
+                    "to": "2022-12-23T08:15:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T16:00:00Z",
+                    "to": "2022-12-24T09:15:00Z"
+                }
+            ],
+            "distanceInMeters": 947,
+            "formattedDistanceString": "0.6 mi"
+        },
+        {
+            "id": "047afc060b4b464e83448613e6635be7",
+            "name": "Bacci Pizzeria (Franklin/Couch)",
+            "nameWithoutLocation": "Bacci Pizzeria",
+            "isAvailableNow": false,
+            "imageUrl": "https://lh3.googleusercontent.com/ysTYMQ0NHZ1EhC0r7Pv2GkYXmNDwSPRUwTq_A-PvDpkT6NG6NbE8KGOf1CcC1zd7Zj78lnt6Tnyh7QSb7CU9RAEOtn8",
+            "squareImageUrl": "https://lh3.googleusercontent.com/hUZ30xkzVPLiZKbBz6vmv4L_mzYJ0bXxwdzr-HVFbHJQx0Nh5NMuzgMOobHXh5Tskbu4Jq2Da2UUe-ERZeKpDpmaVKA",
+            "address": {
+                "streetAddress": "162 N Franklin St",
+                "city": "Chicago"
+            },
+            "location": {
+                "latitude": 41.885025,
+                "longitude": -87.63546
+            },
+            "menuPath": "/bacci-pizzeria-franklin-couch-chicago/nbes",
+            "timeZone": "America/Chicago",
+            "currency": "USD",
+            "isOpenNow": false,
+            "tags": [
+                "Pizza"
+            ],
+            "promotions": [],
+            "hasDelivery": true,
+            "hasPickup": true,
+            "hasDineIn": true,
+            "hasScheduledOrdering": true,
+            "openHoursToday": [
+                {
+                    "from": "2022-12-22T15:00:00Z",
+                    "to": "2022-12-22T20:00:00Z"
+                }
+            ],
+            "nextOpenHours": [
+                {
+                    "from": "2022-12-23T15:00:00Z",
+                    "to": "2022-12-23T20:00:00Z"
+                }
+            ],
+            "distanceInMeters": 955,
+            "formattedDistanceString": "0.6 mi"
+        }
+    ],
+    "paginationToken": "CM_B6f8HECYYUSjb4o-pBzDUr5SdBjjPyeXJAg",
+    "hasNextPage": true
+}
