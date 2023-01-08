@@ -1,0 +1,20 @@
+CREATE TABLE main.merchant_names (
+   name TEXT COLLATE NOCASE,
+   alt_names TEXT COLLATE NOCASE,
+   PRIMARY KEY (name)
+);
+
+CREATE TABLE main.items (
+   merchant_name TEXT COLLATE NOCASE,
+   name TEXT COLLATE NOCASE,
+   alt_names TEXT COLLATE NOCASE,
+   dd_price_listed REAL,
+   dd_price_actual REAL,
+   rit_price_listed REAL,
+   rit_price_actual REAL,
+   PRIMARY KEY (merchant_name, name),
+   FOREIGN KEY (merchant_name)
+   REFERENCES merchant_names (merchant_name)
+      ON DELETE CASCADE 
+      ON UPDATE NO ACTION
+);

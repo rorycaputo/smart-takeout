@@ -1,0 +1,5 @@
+addAltMerchant("Al's Beef", ['Al\'s Italian Beef (Wells/Ohio)', 'Al\'s Italian Beef'])
+combineMerchants('Pizzeria Ora', ['Pizzeria Ora - Chicago Style Pizza (N La Salle)'])
+combineMerchants('Protein Bar & Kitchen', ['The Protein Bar and Kitchen'])
+addAltMerchant("Protein Bar & Kitchen", ['Protein Bar'])
+combineMerchants('Brown Bag Seafood', ['Brown Bag Seafood Co.'])
